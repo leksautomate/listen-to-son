@@ -1,0 +1,4 @@
+faster-whisper
+PyQt6
+moviepy
+yt-dlp
